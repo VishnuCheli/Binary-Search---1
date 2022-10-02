@@ -1,3 +1,7 @@
+#Time Complexity:: Average: O(logn)-Traversing with for loop using Binary Search
+#Space Complexity:: Almost O(1) - no extra space since we're just finding index
+#Did this code successfully run on Leetcode : Yes
+#Any problem you faced while coding this : No
 class Solution(object):
     def searchMatrix(self, matrix, target):
         """
